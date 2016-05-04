@@ -1,12 +1,15 @@
 What happens when you initialize a repository? Why do you need to do it?
-    when i inialize a new repository a new file ,,git created and it has zero commit.
+    When i inialize a new repository a new file .git created and it has zero commit.
     To create a new repo we use command git init.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
+    File in staging area stay for only a short period of time until we commit it to repositiory.
+    It is an intermediatary area. Those file where changes has been made is transfeered to staging area where
+    it is sent to repository.
 How can you use the staging area to make sure you have one commit per logical
 change?
+     With the help of git diff and git diff --staged i can ensur that only one changes has been made.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
