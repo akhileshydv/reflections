@@ -13,6 +13,8 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+   Branches will be helpful in swituation when we have to make mutiple version of same project.
+   We can easily switch from one branches to the other.
 
 How do the diagrams help you visualize the branch structure?
 
