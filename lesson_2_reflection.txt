@@ -17,6 +17,7 @@ organized? How would branches help?
    We can easily switch from one branches to the other.
 
 How do the diagrams help you visualize the branch structure?
+    It gives a clear cut picture of different branches and what coomit are reachable what not.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
